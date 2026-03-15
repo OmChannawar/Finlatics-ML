@@ -65,10 +65,14 @@ The analysis addresses six core questions:
 ```
 ├── Facebook_Marketplace_Analysis.pdf   # Presentation summarising findings
 ├── Facebook_Marketplace_data.csv       # Raw dataset (7,050 posts)
-├── [Facebook_Marketplace_data.ipynb](https://colab.research.google.com/drive/1pZQGjB1uIe9bPXK9vpC5Tyb5JsHpKHMh?usp=sharing)     # Analysis notebook (full code)
+├── Facebook_Marketplace_data.ipynb     # Analysis notebook (full code)
 └── README.md
 ```
 
+---
+
+Notebook (Google Colab):  
+[Open in Colab](https://colab.research.google.com/drive/1pZQGjB1uIe9bPXK9vpC5Tyb5JsHpKHMh?usp=sharing)
 
 ---
 
