@@ -63,11 +63,12 @@ The analysis addresses six core questions:
 ## Project Structure
 
 ```
+├── Facebook_Marketplace_Analysis.pdf   # Presentation summarising findings
 ├── Facebook_Marketplace_data.csv       # Raw dataset (7,050 posts)
-├── Facebook_Marketplace_data.ipynb     # Analysis notebook (full code)
-├── Facebook_Marketplace_Analysis.pptx  # Presentation summarizing findings
+├── [Facebook_Marketplace_data.ipynb](https://colab.research.google.com/drive/1pZQGjB1uIe9bPXK9vpC5Tyb5JsHpKHMh?usp=sharing)     # Analysis notebook (full code)
 └── README.md
 ```
+
 
 ---
 
@@ -102,6 +103,7 @@ MIT Academy of Engineering
 
 ## Copyright
 
-© 2024 Om A. Channawar. All rights reserved.
+© 2024 Om A. Channawar.
 
-This project and its contents — including the analysis notebook, presentation, and documentation — are the intellectual property of the author. The dataset used in this project is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and is subject to its own terms of use. No part of this project may be reproduced, distributed, or used for commercial purposes without prior written permission from the author.
+This project is shared for **educational and portfolio purposes**.  
+The dataset used in this project is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and follows its usage terms.
