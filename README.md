@@ -55,3 +55,12 @@ Through these projects, I gained practical experience in:
 ## Acknowledgment
 
 All projects in this repository were completed as part of the **Finlatics Machine Learning Course**, which provided hands-on experience with machine learning concepts and data-driven analysis.
+
+## Copyright
+
+© 2026 Om A. Channawar
+
+This repository contains projects completed as part of the **Finlatics Machine Learning Course**.  
+All code, analysis, and reports in this repository are created for educational and portfolio purposes.
+
+Datasets used in these projects belong to their respective sources and are used here solely for learning and demonstration purposes.
