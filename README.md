@@ -87,7 +87,6 @@ These projects were completed as part of the **Finlatics Machine Learning Course
 ## Author
 
 **Om A. Channawar**
-MIT - Academy of Engineering
 
 Machine Learning enthusiast exploring data-driven insights through practical projects.
 
