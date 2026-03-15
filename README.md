@@ -10,7 +10,7 @@ The program introduced the core concepts required to begin working with machine 
 
 - Python programming for data analysis
 - Data cleaning and preprocessing
-- Exploratory data analysis (EDA)
+- Exploratory Data Analysis (EDA)
 - Training and evaluating machine learning models
 - Extracting insights from datasets
 
@@ -21,19 +21,6 @@ Several foundational machine learning algorithms were covered, such as:
 - Clustering (K-Means)  
 - Decision Trees  
 - Random Forests  
-
-## Projects
-
-After completing the theoretical modules, the course included **three practical projects**.  
-
-For each project:
-
-- A **dataset** was provided.
-- A **documentation file** explained the dataset and defined several analytical questions.
-- The task was to **preprocess the dataset, train suitable machine learning models, and analyse the results**.
-- A **short report** was prepared summarising the insights and conclusions derived from the data.
-
-These projects helped reinforce the full machine learning workflow, including **data preprocessing, model training, evaluation, and interpretation of results**.
 
 ## Projects
 
@@ -54,13 +41,16 @@ Through these projects, I gained practical experience in:
 
 ## Acknowledgment
 
-All projects in this repository were completed as part of the **Finlatics Machine Learning Course**, which provided hands-on experience with machine learning concepts and data-driven analysis.
+This project was completed as part of the **Finlatics Machine Learning Course**, which provided hands-on experience with data preprocessing, machine learning models, and real-world dataset analysis.
+
+## Author
+
+**Om A. Channawar**
+
+Machine Learning enthusiast exploring data-driven insights through practical projects.
 
 ## Copyright
 
-© 2026 Om A. Channawar
-
-This repository contains projects completed as part of the **Finlatics Machine Learning Course**.  
-All code, analysis, and reports in this repository are created for educational and portfolio purposes.
-
-Datasets used in these projects belong to their respective sources and are used here solely for learning and demonstration purposes.
+© 2026 Om A. Channawar.  
+This repository is shared for **educational and portfolio purposes**.  
+Datasets used in this project belong to their respective sources.
