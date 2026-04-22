@@ -1,11 +1,11 @@
-# 📈 Sales Prediction Using Advertising Data
+# Sales Prediction Using Advertising Data
 
 This project was completed as part of the **Machine Learning Course by Finlatics**.  
 The objective of this project is to analyze how advertising budgets across different media channels influence product sales and to build a **machine learning model that predicts sales based on advertising expenditure**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Companies spend large amounts on advertising through different platforms such as **TV, Radio, and Newspapers**. Understanding how these investments affect product sales helps businesses make better marketing decisions.
 
@@ -13,7 +13,7 @@ In this project, **Exploratory Data Analysis (EDA)** and **Multiple Linear Regre
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains advertising spending information and corresponding product sales.
 
@@ -26,7 +26,7 @@ The dataset contains advertising spending information and corresponding product 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze advertising spending patterns
 - Understand the relationship between advertising channels and sales
@@ -36,7 +36,7 @@ The dataset contains advertising spending information and corresponding product 
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Analysis
 - Calculated the **average advertising spending on TV**
@@ -69,7 +69,7 @@ Predicted product sales for the following advertising campaign:
 
 ---
 
-## 🧠 Machine Learning Technique
+## Machine Learning Technique
 
 The project uses **Multiple Linear Regression**, which models the relationship between multiple independent variables and a dependent variable.
 
@@ -77,7 +77,7 @@ Sales is predicted using advertising budgets as input features.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -89,7 +89,7 @@ Sales is predicted using advertising budgets as input features.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 This repository contains:
 
@@ -100,7 +100,7 @@ This repository contains:
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Advertising expenditure significantly influences product sales.
 - Some advertising channels contribute more strongly to sales predictions.
@@ -109,7 +109,7 @@ This repository contains:
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 I would like to thank **Finlatics** for providing the opportunity to work on this machine learning project as part of their ML course.  
 The dataset used in this project is a commonly used advertising dataset for learning regression analysis and machine learning concepts.
@@ -125,7 +125,7 @@ The code and documentation in this repository may be used for learning and refer
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Om Channawar**  
 Machine Learning Project – Finlatics ML Course
